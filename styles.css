@@ -57,5 +57,24 @@ body {
 }
 
 .discount-percentege {
-    background: green;
+    background: #38cf68;
+    border-radius: 4px 0 0 0;
+}
+
+.original-price, .current-price, .discount-percentege  {
+  padding: 4px;
+  color: white;
+}
+
+.current-price, .original-price  {
+  background-color: orange;
+  
+}
+
+.original-price {
+  font-style: italic;
+}
+
+.current-price {
+  font-weight: bold;
 }
