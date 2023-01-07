@@ -31,57 +31,57 @@ const gamesOnSale = [
 
 const popularGames = [
   {
-      title: "pippo",
+      title: "Civilization VI",
       price: "10",
-      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/capsule_616x353.jpg?t=1671472823",
+      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/capsule_616x353.jpg?t=1671048172",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum dapibus faucibus. Pellentesque nisl diam, consequat quis convallis non, venenatis a enim. Donec sollicitudin imperdiet magna in facilisis. Nullam sollicitudin, ante a sagittis mattis, massa magna tincidunt nunc, id mattis nisi magna a erat. Phasellus vulputate cursus enim, ac dictum nisi pellentesque ultricies. Praesent a nulla ac libero lobortis semper. Praesent neque purus, pulvinar id diam at, gravida aliquam mi. Cras eleifend quam sed erat posuere aliquam."
   }, 
   {
-      title: "baudo",
+      title: "Flight Simulator",
       price: "10",
-      imgSrc: "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/RDR2476298253_Epic_Games_Wishlist_RDR2_2560x1440_V01-2560x1440-2a9ebe1f7ee202102555be202d5632ec.jpg",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum dapibus faucibus. Pellentesque nisl diam, consequat quis convallis non, venenatis a enim. Donec sollicitudin imperdiet magna in facilisis. Nullam sollicitudin, ante a sagittis mattis, massa magna tincidunt nunc, id mattis nisi magna a erat. Phasellus vulputate cursus enim, ac dictum nisi pellentesque ultricies. Praesent a nulla ac libero lobortis semper. Praesent neque purus, pulvinar id diam at, gravida aliquam mi. Cras eleifend quam sed erat posuere aliquam."
-
-  }, 
-  {
-      title: "god",
-      price: "10",
-      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg?t=1663663573",
+      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1250410/capsule_616x353.jpg?t=1668186331",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum dapibus faucibus. Pellentesque nisl diam, consequat quis convallis non, venenatis a enim. Donec sollicitudin imperdiet magna in facilisis. Nullam sollicitudin, ante a sagittis mattis, massa magna tincidunt nunc, id mattis nisi magna a erat. Phasellus vulputate cursus enim, ac dictum nisi pellentesque ultricies. Praesent a nulla ac libero lobortis semper. Praesent neque purus, pulvinar id diam at, gravida aliquam mi. Cras eleifend quam sed erat posuere aliquam."
 
   }, 
   {
-      title: "god",
+      title: "Tom Clancy's Rainbow Six Siege",
       price: "10",
-      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg?t=1663663573",
+      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/capsule_616x353.jpg?t=1671482386",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum dapibus faucibus. Pellentesque nisl diam, consequat quis convallis non, venenatis a enim. Donec sollicitudin imperdiet magna in facilisis. Nullam sollicitudin, ante a sagittis mattis, massa magna tincidunt nunc, id mattis nisi magna a erat. Phasellus vulputate cursus enim, ac dictum nisi pellentesque ultricies. Praesent a nulla ac libero lobortis semper. Praesent neque purus, pulvinar id diam at, gravida aliquam mi. Cras eleifend quam sed erat posuere aliquam."
 
   }, 
   {
-      title: "god",
+      title: "Football Manager 2023",
       price: "10",
-      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg?t=1663663573",
+      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1904540/capsule_616x353.jpg?t=1668082258",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum dapibus faucibus. Pellentesque nisl diam, consequat quis convallis non, venenatis a enim. Donec sollicitudin imperdiet magna in facilisis. Nullam sollicitudin, ante a sagittis mattis, massa magna tincidunt nunc, id mattis nisi magna a erat. Phasellus vulputate cursus enim, ac dictum nisi pellentesque ultricies. Praesent a nulla ac libero lobortis semper. Praesent neque purus, pulvinar id diam at, gravida aliquam mi. Cras eleifend quam sed erat posuere aliquam."
 
   }, 
   {
-      title: "god",
+      title: "Fifa 23",
       price: "10",
-      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg?t=1663663573",
+      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1811260/capsule_616x353.jpg?t=1672758344",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum dapibus faucibus. Pellentesque nisl diam, consequat quis convallis non, venenatis a enim. Donec sollicitudin imperdiet magna in facilisis. Nullam sollicitudin, ante a sagittis mattis, massa magna tincidunt nunc, id mattis nisi magna a erat. Phasellus vulputate cursus enim, ac dictum nisi pellentesque ultricies. Praesent a nulla ac libero lobortis semper. Praesent neque purus, pulvinar id diam at, gravida aliquam mi. Cras eleifend quam sed erat posuere aliquam."
 
   }, 
   {
-      title: "god",
+      title: "War Thunder Apex Predators",
       price: "10",
-      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg?t=1663663573",
+      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/236390/capsule_616x353.jpg?t=1671733778",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum dapibus faucibus. Pellentesque nisl diam, consequat quis convallis non, venenatis a enim. Donec sollicitudin imperdiet magna in facilisis. Nullam sollicitudin, ante a sagittis mattis, massa magna tincidunt nunc, id mattis nisi magna a erat. Phasellus vulputate cursus enim, ac dictum nisi pellentesque ultricies. Praesent a nulla ac libero lobortis semper. Praesent neque purus, pulvinar id diam at, gravida aliquam mi. Cras eleifend quam sed erat posuere aliquam."
 
   }, 
   {
-      title: "god",
+      title: "Hogwarts Legacy",
       price: "10",
-      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg?t=1663663573",
+      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/capsule_616x353.jpg?t=1668268562",
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum dapibus faucibus. Pellentesque nisl diam, consequat quis convallis non, venenatis a enim. Donec sollicitudin imperdiet magna in facilisis. Nullam sollicitudin, ante a sagittis mattis, massa magna tincidunt nunc, id mattis nisi magna a erat. Phasellus vulputate cursus enim, ac dictum nisi pellentesque ultricies. Praesent a nulla ac libero lobortis semper. Praesent neque purus, pulvinar id diam at, gravida aliquam mi. Cras eleifend quam sed erat posuere aliquam."
+
+  }, 
+  {
+      title: "High On Life",
+      price: "10",
+      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1583230/capsule_616x353.jpg?t=1671088821",
       description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vestibulum dapibus faucibus. Pellentesque nisl diam, consequat quis convallis non, venenatis a enim. Donec sollicitudin imperdiet magna in facilisis. Nullam sollicitudin, ante a sagittis mattis, massa magna tincidunt nunc, id mattis nisi magna a erat. Phasellus vulputate cursus enim, ac dictum nisi pellentesque ultricies. Praesent a nulla ac libero lobortis semper. Praesent neque purus, pulvinar id diam at, gravida aliquam mi. Cras eleifend quam sed erat posuere aliquam."
 
   }
