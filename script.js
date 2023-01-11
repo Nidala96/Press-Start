@@ -26,6 +26,30 @@ const gamesOnSale = [
       discountPrice: "5",
       imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/capsule_616x353.jpg?t=1663663573"
 
+  }, 
+  {
+      
+      price: "10",
+      discountPercentage: "50",
+      discountPrice: "5",
+      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/368260/capsule_616x353.jpg?t=1671733540"
+
+  }, 
+  {
+      
+      price: "10",
+      discountPercentage: "50",
+      discountPrice: "5",
+      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_616x353_italian.jpg?t=1671639469"
+
+  }, 
+  {
+      
+      price: "10",
+      discountPercentage: "50",
+      discountPrice: "5",
+      imgSrc: "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/capsule_616x353.jpg?t=1671160999"
+
   }
 ]
 
@@ -110,10 +134,12 @@ popularGames.forEach(element => {
   const cardBody = document.createElement('div') 
   cardBody.classList.add("card-body")
   const cardImage = document.createElement('img') 
+  cardImage.classList.add("card-img")
   cardBody.classList.add("card-img-top")
-  const cardTitle = document.createElement('h5') 
+  const cardTitle = document.createElement('h2') 
   cardRoot.classList.add("card-title")
   const cardText = document.createElement('p') 
+  cardText.classList.add("card-text-2")
   cardRoot.classList.add("card-text")
   cardImage.src = element.imgSrc
   cardTitle.textContent = element.title
