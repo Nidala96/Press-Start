@@ -252,9 +252,14 @@ td, th {
 
 .container-support-box :hover {
    background-color: #0063ec;
-  
+   cursor: pointer;
 }
 
 .container-support-box {
   padding-top: 120px;
 }
+
+.card :hover {
+  cursor: pointer;
+}
+
